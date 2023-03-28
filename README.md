@@ -55,4 +55,4 @@ The following routes have been set up to return JSON data in the format specifie
 This project is licensed under the MIT
 
 ## Author
-This app was created by `Abdiaziz Abdullahi`.
+This app was created by `Kidhri Salim`.
