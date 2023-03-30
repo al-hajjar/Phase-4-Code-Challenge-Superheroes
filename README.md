@@ -4,7 +4,7 @@ This Rails API application allows you to track heroes and their superpowers.
 
 ## Access
 You can access this repository at:
-    'https://github.com/AbdiazizAbdullahi/superheros.git'
+    'https://github.com/al-hajjar/superheros.git'
 
 The deployed link:
     'https://superheroes-ph9o.onrender.com/heros'
